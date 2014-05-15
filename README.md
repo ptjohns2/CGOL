@@ -6,3 +6,5 @@ Simulator written as a Java applet for executing Conway's Game of life.  Many op
 	-Change colors of alive/dead cells  
 	-Randomize board  
 	-Generation duration  
+
+![Alt text](/Demo.png?raw=true)
